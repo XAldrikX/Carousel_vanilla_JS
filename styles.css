@@ -47,6 +47,8 @@
     margin-right: 20px;   
 }
 
+// animations
+
 @keyframes fadeVisibility {
     0% {
         opacity: 0;
